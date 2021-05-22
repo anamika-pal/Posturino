@@ -1,4 +1,6 @@
 # Posturino
+
+<img src="https://github.com/akshitagupta15june/Posturino/blob/main/Images/4.jpg" height=300 width=350>
 ## Inspiration
 
 During this Covid-19 era, many of us spend most of our days hunched over a
